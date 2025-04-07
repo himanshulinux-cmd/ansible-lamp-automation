@@ -1,0 +1,4 @@
+- name: Create a user
+  user:
+    name: devops
+    state: present
